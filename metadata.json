@@ -1,0 +1,9 @@
+{
+  "name": "Iman Firman AI",
+  "description": "A comprehensive AI suite powered by Gemini 3 and 2.5, featuring real-time voice, image/video generation, search grounding, and deep reasoning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
